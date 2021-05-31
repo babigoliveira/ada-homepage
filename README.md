@@ -1,5 +1,8 @@
 # Ada Lovelace
 
+![Ada Lovelace](./img/adaPintura.png)
+
+
 Esse projeto consiste de uma página WEB estática que conta um pouco da história da primeira programadora do mundo.
 
 ---
